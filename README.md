@@ -55,7 +55,7 @@ O dataset utilizado contém as seguintes colunas:
 ## 📂 Estrutura do Projeto
 
 * **notebooks/**: Notebook principal com a análise.
-* **data/**: Arquivo .py para a obtenção de Dataset.
+* **src/**: Arquivo .py para a obtenção de Dataset.
 * **requirements.txt**: Lista de pacotes necessários para execução.
 
 
